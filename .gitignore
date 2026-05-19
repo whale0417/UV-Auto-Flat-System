@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.tar.gz
+*.aliases
+*.lvlps
+*.cache
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
